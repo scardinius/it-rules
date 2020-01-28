@@ -1,0 +1,7 @@
+site_name: IT Rules
+theme: readthedocs
+
+pages:
+- 'Główna': index.md
+- 'Złote zasady informatyka': pl/zlote-zasady-informatyka.md
+
