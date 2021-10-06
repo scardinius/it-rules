@@ -12,4 +12,6 @@
 8. przykro mi, nie jesteś w moim typie
 9. oj, dana dana
 10. wyjdź z króliczej nory
+11. przykro mi, nie jesteś w moim typie
+12. nie wierz nigdy userowi
 
